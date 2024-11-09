@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer from Novosibirsk, Russia<br>🔭 Currently working on automation programs using Selenium<br>👯 Looking for a job<br>🌱 Currently learning python & java<br>⚡ Lead a healthy and active lifestyle
+Backend developer from Novosibirsk, Russia<br>🔭 Currently working on program automation using Selenium<br>👯 Looking for a job<br>🌱 Currently learning python & java<br>⚡ Lead a healthy and active lifestyle
 
 
 ## 🌐 Socials:
