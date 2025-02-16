@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer from Novosibirsk, Russia<br>👯 Looking for a job<br>🌱 Currently learning PHP<br>⚡ Lead a healthy and active lifestyle
+Backend developer from Novosibirsk, Russia<br>👯 Looking for a job<br>🌱 Currently learning PHP & Laravel<br>⚡ Lead a healthy and active lifestyle
 
 
 ## 🌐 Socials:
